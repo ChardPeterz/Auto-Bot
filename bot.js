@@ -14,7 +14,7 @@ async function startBot() {
     const page = await browser.newPage();
 
     // Step 3: Navigate to a website
-    await page.goto('https://www.youtube.com/'); // Replace with the target URL
+    await page.goto('https://www.google.com/'); // Replace with the target URL
 
     // To Interact with the page by Clicking a button
     await page.waitForSelector('button'); // Wait for a button to appear
