@@ -13,7 +13,7 @@ async function startBot() {
     // Step 2: Open a new page
     const page = await browser.newPage();
 
-    // Step 3: Navigate to a website
+    // Step 3: Navigate to desired website
     await page.goto('https://www.google.com/'); // Replace with the target URL
 
     // To Interact with the page by Clicking a button
