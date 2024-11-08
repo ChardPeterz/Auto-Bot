@@ -1,7 +1,7 @@
 // Import Puppeteer
 const puppeteer = require('puppeteer');
 
-// Define the bot as an asynchronous function
+// Firstly Define the bot as an asynchronous function
 async function startBot() {
     // Step 1: Launch the browser
     const browser = await puppeteer.launch({
