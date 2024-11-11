@@ -13,4 +13,4 @@
 
 1. Create and front end which can only be used for the screenshot webpage function. This will be a simple page asking the user to insert desired link.
 <br>
-2. ...
+2. automate this app so it can be useful for frelance
