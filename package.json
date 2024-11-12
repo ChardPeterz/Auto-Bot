@@ -1,0 +1,25 @@
+{
+  "name": "auto-bot",
+  "version": "1.0.0",
+  "description": "this is a simple automation bot outline.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node bot.js", "build": "nexe"
+  },
+  "repository": {
+    "type": "git",
+    "url": "chardpeterz autobot"
+  },
+  "keywords": [
+    "screenshot",
+    "auto-clicking",
+    "form",
+    "entry"
+  ],
+  "author": "Chard Peter",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^23.7.1"
+  }
+}
