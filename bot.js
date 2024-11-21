@@ -33,4 +33,4 @@ async function startBot() {
 // Call the bot function to start
 startBot().catch(error => console.error('Error in bot:', error));
 
-// All dependencies and packages have been installed, only mess around with the code adding desired website and required actions for bot
+// All dependencies and packages have been installed, only play around with the code adding desired website and required actions for bot
